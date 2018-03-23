@@ -1,0 +1,6 @@
+house: Haus
+computer: Computer
+school: Schule
+tree: Baum
+street: Straße
+cable: Kabel
